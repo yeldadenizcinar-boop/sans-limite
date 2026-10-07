@@ -1,0 +1,6 @@
+{
+  "name": "Sans Limite — Association Jeunesse & Projets Européens",
+  "description": "Sans Limite œuvre pour que les jeunes et les personnes ayant moins d'opportunités accèdent à l'éducation, à la culture et à l'engagement citoyen — sans limite. Association loi 1901 à Paris/Vitry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
